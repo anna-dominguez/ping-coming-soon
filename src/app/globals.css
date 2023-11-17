@@ -4,6 +4,6 @@
 
 @layer {
   html {
-    @apply flex flex-col items-center px-7 pt-20 pb-9 lg:w-[40%] h-full w-full mx-auto;
+    @apply flex flex-col items-center px-7 pt-20 pb-9 lg:w-[50%] h-full w-full mx-auto;
   }
 }
